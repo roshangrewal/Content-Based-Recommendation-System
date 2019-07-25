@@ -1,6 +1,7 @@
 # Content-Based-Recommendation-System
 Building a Movie Recommendation Engine
 
+Future Scope:
 1. Our current implementation of the recommender system uses content-based filtering
 and doesn’t take into account popularity or ratings of a movie while recommending
 movies to a user. Implement a hybrid recommendation system that uses vote_count /
