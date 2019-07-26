@@ -8,7 +8,7 @@ def get_title_from_index(index):
 
 def get_index_from_title(title):
 	return df[df.title == title]["index"].values[0]
-##################################################
+######################################################
 
 ##Step 1: Read CSV File
 df = pd.read_csv("movie_dataset.csv")
